@@ -8,7 +8,7 @@ export const ToDoItem = (props) => {
         <p className="to-do__item__label">{props.label}</p>
         <button className="to-do__item__remove-btn" onClick={props.onClick}>-</button>
         <input type="checkbox" className="check" onChanged={props.onChanged}></input>
-        
+    
     </div>
     );
 };
