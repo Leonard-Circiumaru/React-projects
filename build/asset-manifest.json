@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/city-tour-list.github.io/static/css/main.0f27a319.css",
+    "main.js": "/city-tour-list.github.io/static/js/main.ec43d063.js",
+    "index.html": "/city-tour-list.github.io/index.html",
+    "main.0f27a319.css.map": "/city-tour-list.github.io/static/css/main.0f27a319.css.map",
+    "main.ec43d063.js.map": "/city-tour-list.github.io/static/js/main.ec43d063.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f27a319.css",
+    "static/js/main.ec43d063.js"
+  ]
+}
